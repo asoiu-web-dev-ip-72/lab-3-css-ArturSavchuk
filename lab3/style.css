@@ -1,0 +1,55 @@
+body {
+	background-image: url("https://wallpapercave.com/wp/XTNjBx1.png");
+}
+
+#introduction {
+	font-family: sans-serif;
+	font-size: bold;
+	padding: 10px;
+	
+}
+
+#сlassification {
+	padding-left: 70px;
+ 	float: left; 
+ 	display: table; 
+ 	width: 400px; 
+}
+
+#construction {
+	float: left;
+    display: table;
+	 width: 400px; 
+
+}
+
+ol {
+ 	color: yellow;
+ 	padding: auto;
+}
+
+ul{
+	color: pink;
+}
+
+h1 {
+	color: red;
+	font-family: sans-serif;
+}
+
+h3 {
+	font-family: fantasy;
+	color: yellow;
+	width: 100px;
+}
+p {
+	font-family: bold;
+	padding: 10px;
+	border: 2px;
+	color: white;	
+}
+
+
+
+
+
